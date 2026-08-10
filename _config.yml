@@ -103,7 +103,6 @@ show_drafts_in_dev: false
 exclude:
   - _drafts
   - tmp
-  - research
 
 page_width: 800px
 

@@ -15,83 +15,56 @@ This **Playbook** collects practical *recipes* (or "plays") describing
 specific practices an individual instructor can choose to adopt. Each play
 names one practice, states the problem it addresses, describes the solution in
 enough detail to act on, is explicit about tradeoffs and about when the
-practice is a bad fit, and cites the source it came from. Individual plays
-include a discussion area at the bottom where anyone in the community can add
-their own experiences, ask questions, or further develop ideas.
+practice is a bad fit, and cites the source it came from.
 
-Plays are deliberately scoped to what one instructor can adopt in one course.
-Institution-level programs, curriculum-wide initiatives, and statements of
-value are out of scope.
+Plays are scoped to what one instructor can adopt in one course. Institution
+level policy, tool development, and K-12 only practices are out of scope.
 
 
-## Status
+## Contents
 
-**Draft.** All 16 plays currently sit in the
-[Incubator](https://not-acoder.github.io/ai-classroom-playbook/incubator.html).
-They have been mined from sources, verified against those sources, and
-drafted, but they have not been reviewed or scored, and they have not been
-sorted into chapters. Chapter structure is expected to emerge from the plays
-rather than being imposed on them.
+Version 1. 29 plays in four chapters. All sources verified by direct fetch.
 
-Every play records its **evidence status** in the Source section. Most of these
-practices are documented but not measured: the source describes the practice
-and reports no outcome data. That is stated plainly on each play rather than
-smoothed over.
+| Chapter | Plays |
+| --- | --- |
+| 1. Teaching with AI — the instructor uses AI to produce instructional material | 10 |
+| 2. Designing Assessment for the AI Era | 6 |
+| 3. Teaching Students to Use AI Well | 5 |
+| 4. Policy, Disclosure, Norms, and Access | 8 |
 
-Where an implementation step was written by the drafter rather than taken from
-the source, it is marked `(Drafted)` inline.
-
-
-## Relationship to the AGP Playbook
-
-This playbook uses the structure, template, and tooling of
-[The Playbook of Alternative Grading Practices](https://cs-alternative-grading-practices.github.io/playbook/)
-without modification. That is a deliberate methodological choice, not
-convenience. The point of building a second playbook in a different domain is
-to find out where a template developed for one domain resists another. Patching
-the template in advance would destroy that measurement.
-
-Observations about where the template resisted are recorded in
-[`research/appendix-a-template-resistance.md`](research/appendix-a-template-resistance.md),
-which is versioned in this repository but not published to the site.
+Play numbers are carried over from the previous draft rather than renumbered,
+so they are not sequential within chapters. Each play records its original
+number in the `play_number` front matter field; file name prefixes control
+reading order within a chapter.
 
 
-## Contributing
+## Evidence status
 
-This Playbook is a community-driven resource that welcomes contributions.
-All contributions are covered by the CC BY-NC-SA license (see [LICENSE](LICENSE)).
-We welcome contributions of all of the following types:
+Every play states its evidence status at the end of the Source section, using
+four values:
 
-- Suggestions for new plays to include
-- Comments or shared experiences added to the discussion of existing plays
-- Writing entirely new plays
-- Editing/fixing content
+- **documented** — the source reports outcome data for this practice
+- **paired** — the practice comes from one source and outcome evidence from another
+- **undocumented** — the practice is described but no outcome evidence was found
+- **steps-drafted** — implementation steps were written by the drafter and are labelled inline
 
-Please read [How to Contribute](https://not-acoder.github.io/ai-classroom-playbook/contributing.html)
-for instructions on how to file an issue or create a pull request. Or, when
-viewing any page on the live site, click the **GitHub icon** in the header of
-the left sidebar to go directly to the corresponding source file and use
-GitHub's inline editing to open a pull request from your browser.
+Implementation steps not supported by a source are marked `(Drafted)` inline.
 
 
 ## Repository layout
 
 ```
 _chapters/
-  000-front/            Title page and table of contents
-  800-Incubator/        The 16 drafted plays, awaiting review and chapter assignment
-  900-how-to-contribute/  Contributor instructions, play template, discussion norms
-  999-back/             References
-research/               Research record; excluded from the built site
+  000-front/                            Title page and table of contents
+  100-teaching-with-ai/
+  200-designing-assessment/
+  300-teaching-students-to-use-ai-well/
+  400-policy-disclosure-norms-and-access/
 ```
 
-Chapter parts are directories named `NNN-part-name`. The site derives the part
-heading from the directory name, so renaming a directory renames the chapter.
-Parts numbered `000` and `999` are unnumbered front and back matter.
-
-Plays are files named `NNN-slug.md`. The `NNN` prefix controls ordering within
-a part; the `slug` in the front matter controls the URL and must be unique
-across the whole book.
+Chapter parts are directories named `NNN-part-name`; the site derives the
+chapter heading from the directory name. Plays are files named `NNN-slug.md`,
+where the slug in the front matter sets the URL and must be unique.
 
 
 ## Running the site locally
@@ -102,13 +75,3 @@ bundle exec jekyll serve
 ```
 
 Then open <http://localhost:4000>.
-
-
-## Before you publish
-
-Three things in this repository are placeholders:
-
-1. `not-acoder` appears in `_config.yml` and in this README. Replace it with the
-   organization or user that will host the repository.
-2. `author` and `email` in `_config.yml`.
-3. `copyright.start_year` in `_config.yml`.

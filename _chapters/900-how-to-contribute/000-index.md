@@ -1,4 +1,0 @@
----
-slug: contributing
-layout: part
----
