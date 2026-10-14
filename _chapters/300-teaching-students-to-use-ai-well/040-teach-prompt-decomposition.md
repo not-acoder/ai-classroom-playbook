@@ -2,7 +2,7 @@
 title: Teach Prompt Decomposition and Iteration Explicitly
 slug: teach-prompt-decomposition
 play_number: 14
-evidence: undocumented
+evidence: paired
 drafted_steps: 1
 total_steps: 5
 last_checked: 2026-10
@@ -76,12 +76,16 @@ For an assessed version of this skill in computing, see Play 22, where prompt fo
 
 + University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
 
++ **Evidence:** Xiao, R., Ye, R., Hou, X., Wen, J., Kumar, H., Liut, M., and Stamper, J. (2026). Transforming GenAI Policy to Prompting Instruction: An RCT of Scalable Prompting Interventions in a CS1 Course. arXiv:2602.16033. (Preprint.)
+
 Described by: _TODO: add name and email_
 
 
 ## Evidence Status
 
-**Level:** undocumented.
+**Level:** paired.
+
+**Outcome search, October 2026:** A randomised trial with 979 CS1 students found every version of a prompting lesson improved prompting skill, more so for more active versions (Xiao and colleagues, 2026). It found no direct difference between groups on the final exam. A preprint.
 
 **Drafted steps:** 1 of 5, marked (Drafted) in How to Implement.
 

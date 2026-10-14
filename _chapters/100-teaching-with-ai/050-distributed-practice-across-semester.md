@@ -84,6 +84,8 @@ Described by: _TODO: add name and email_
 
 Grounded in prior learning science evidence for the underlying strategy, but reports no outcome data for the AI assisted version.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** none. All seven implementation steps come from the sources.
 
 

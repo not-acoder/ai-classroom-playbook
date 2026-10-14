@@ -91,6 +91,8 @@ Relationship to Play 23. This play produces process evidence for learning. Play 
 
 The source reports institutional field exemplars with observed effects, such as Cochise College, but no controlled data.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** none. All seven implementation steps come from the sources.
 
 

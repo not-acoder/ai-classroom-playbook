@@ -2,7 +2,7 @@
 title: Draft Low-Stakes Diagnostic Quizzes
 slug: low-stakes-diagnostic-quizzes
 play_number: 3
-evidence: undocumented
+evidence: paired
 drafted_steps: 0
 total_steps: 8
 last_checked: 2026-10
@@ -77,14 +77,18 @@ The source frames in lecture items as hinge questions, which tell the instructor
 + Mollick, E., and Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. The Wharton School Research Paper. https://ssrn.com/abstract=4391243
 + **Reading quiz application:** University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
 
++ **Evidence:** An, Y., Liu, J., Acharya, N., and Hashmi, R. (2025). Enhancing Student Learning with LLM-Generated Retrieval Practice Questions: An Empirical Study in Data Science Courses. arXiv:2507.05629. (Preprint.)
+
 Described by: _TODO: add name and email_
 
 
 ## Evidence Status
 
-**Level:** undocumented.
+**Level:** paired, weak.
 
 Grounded in prior learning science evidence for the underlying strategy, but reports no outcome data for the AI assisted version.
+
+**Outcome search, October 2026:** About 60 students in two data science courses scored 89 percent on LLM generated retrieval practice against 73 percent in a week without it (An and colleagues, 2025). A preprint comparing weeks, not a controlled trial, so differences between the weeks could explain part of the gap.
 
 **Drafted steps:** none. All eight implementation steps come from the sources.
 

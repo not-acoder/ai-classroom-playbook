@@ -70,14 +70,14 @@ Each play states one evidence level:
 
 - **documented**: a source reports outcome data for this practice
 - **paired**: the practice comes from one source and outcome evidence from another. Marked "indirect" when that evidence tests a related practice rather than this one
-- **undocumented**: the practice is described but no outcome evidence was found in the sources reviewed. Outcome studies were not searched for play by play
+- **undocumented**: the practice is described but no outcome evidence was found, after a search for outcome studies of that practice
 
 Separately, each play reports how many of its implementation steps were
 drafted rather than taken from a source. That is a different question from
 evidence strength: a play can rest on strong evidence and still have most of
 its steps written by the drafter. Play 21 is the clearest case.
 
-Version 1.1 totals: 1 documented, 2 paired (both indirect), 26 undocumented. 20 of 29 plays
+Version 1.1 totals: 2 documented, 4 paired, 23 undocumented. Every play was searched for outcome studies in October 2026; the result is recorded in its Evidence Status. 20 of 29 plays
 contain at least one drafted step, 46 drafted steps in all.
 
 The same values are in each play's front matter (`evidence`,

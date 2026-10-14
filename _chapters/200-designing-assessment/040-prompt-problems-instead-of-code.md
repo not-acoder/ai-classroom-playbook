@@ -86,6 +86,8 @@ Domain note. This is the only play in the collection restricted to a single disc
 
 No outcome data exists for Prompt Problems as a standalone exercise. The CS1-LLM course that builds on the same move has its own outcomes study, which evaluates the whole redesigned course, not this exercise alone. The 2024 CS1-LLM paper is an experience report, not an outcomes study.
 
+**Outcome search, October 2026:** An experience report from the same research group found performance on natural language prompting tasks was less tied to students' reported difficulty than traditional assessments were (Kerslake and colleagues, 2024). No comparison group.
+
 **Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
 
 

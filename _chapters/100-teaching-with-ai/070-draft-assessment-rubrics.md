@@ -85,6 +85,8 @@ Described by: _TODO: add name and email_
 
 the trial measured rubric quality as a contributing factor within an AI assisted feedback system. It did not measure the effect of AI drafted rubrics on grading consistency, and no source cited here does.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
 
 

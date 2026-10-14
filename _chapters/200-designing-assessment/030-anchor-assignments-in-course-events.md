@@ -82,6 +82,8 @@ Described by: _TODO: add name and email_
 
 **Level:** undocumented.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** 1 of 5, marked (Drafted) in How to Implement.
 
 

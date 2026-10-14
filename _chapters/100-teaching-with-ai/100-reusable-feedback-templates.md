@@ -89,6 +89,8 @@ Scope note. Discovery originally described a workflow passing individual student
 
 In both trials the AI worked against explicit rubrics and under human review. Neither tested AI feedback delivered to students without an instructor in the loop.
 
+**Outcome search, October 2026:** Zhang re-checked: double blind randomised trial, 259 students, four weeks, Qwen-7B based feedback against trained instructors, 0.149 standard deviation greater gain in overall writing score. The paper's group counts are inconsistent (130 and 129 in Methods, 125 and 134 in Results).
+
 **Drafted steps:** none. All five implementation steps come from the sources.
 
 

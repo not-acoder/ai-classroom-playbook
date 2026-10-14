@@ -83,6 +83,8 @@ Described by: _TODO: add name and email_
 
 Grounded in prior learning science evidence for the underlying strategy, but reports no outcome data for the AI assisted version.
 
+**Outcome search, October 2026:** One preprint found LLM generated analogies improved understanding, but in high school biology and physics, which is outside this playbook's scope (Shao and colleagues, 2025).
+
 **Drafted steps:** none. All eight implementation steps come from the sources.
 
 

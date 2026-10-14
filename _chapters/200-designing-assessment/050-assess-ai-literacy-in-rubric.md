@@ -83,6 +83,8 @@ Described by: _TODO: add name and email_
 
 Outcomes are self-reports from the three educators who taught one second year course at one university. The study does not measure effects on student learning.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** 3 of 5, marked (Drafted) in How to Implement.
 
 

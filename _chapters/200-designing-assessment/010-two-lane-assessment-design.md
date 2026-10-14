@@ -83,6 +83,8 @@ Described by: _TODO: add name and email_
 
 The paper is a conceptual contribution and reports no outcome data for the two lane structure.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
 
 

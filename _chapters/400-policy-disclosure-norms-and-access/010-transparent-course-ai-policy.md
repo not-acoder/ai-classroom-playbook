@@ -2,7 +2,7 @@
 title: Publish a Transparent Course AI Policy
 slug: transparent-course-ai-policy
 play_number: 6
-evidence: undocumented
+evidence: documented
 drafted_steps: 1
 total_steps: 9
 last_checked: 2026-10
@@ -87,6 +87,8 @@ Whitman's version of the same policy lists four things to state: how you use AI 
 + **Syllabus practice:** University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
 + **Syllabus practice:** Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
 
++ **Evidence:** Furze, L., Perkins, M., Roe, J., and MacVaugh, J. (2024). The AI Assessment Scale (AIAS) in action: A pilot implementation of GenAI-supported assessment. Australasian Journal of Educational Technology 40(4):38 to 55. https://doi.org/10.14742/ajet.9434
+
 Described by: _TODO: add name and email_
 
 Revision note. The previous draft built the tier structure on a three option red, yellow, green scheme attributed to the CHEPP report, together with a 97 percent survey figure and named institutional adopters. Version 1.0 removed those specifics because the report could not be found. It has since been located (July 2026) and every specific was confirmed, so the institutional example and the figure are restored in Examples. The AI Assessment Scale stays as the primary tier structure because it is peer reviewed and works per assessment rather than per course.
@@ -94,9 +96,11 @@ Revision note. The previous draft built the tier structure on a three option red
 
 ## Evidence Status
 
-**Level:** undocumented.
+**Level:** documented, weak.
 
 No source reports outcome data for a tiered course policy. The CHEPP report's 97 percent figure measures learner demand for clearer policies, not the effect of any policy.
+
+**Outcome search, October 2026:** A pilot of the AI Assessment Scale at one university reported fewer generative AI misconduct cases, a 5.9 percent rise in attainment and a 33.3 percent rise in module pass rates (Furze and colleagues, 2024). No comparison group, so other changes at the university could explain part of it.
 
 **Drafted steps:** 1 of 9, marked (Drafted) in How to Implement.
 

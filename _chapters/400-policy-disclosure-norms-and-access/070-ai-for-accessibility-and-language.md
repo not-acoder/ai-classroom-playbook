@@ -86,6 +86,8 @@ Verification note. Version 1.0 flagged the CHEPP report as unverifiable. It has 
 
 **Level:** undocumented.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
 
 

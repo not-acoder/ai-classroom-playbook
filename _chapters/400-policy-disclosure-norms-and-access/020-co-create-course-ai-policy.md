@@ -89,6 +89,8 @@ Revision note. In the previous draft three of seven steps were drafted, from a s
 
 The source is a qualitative participatory design study in one graduate design studio course with ten students at one institution. It documents a process and its outputs. It does not measure whether co-created policies change student behaviour or learning.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** none. All eight implementation steps come from the sources.
 
 

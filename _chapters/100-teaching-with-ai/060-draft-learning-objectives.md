@@ -83,6 +83,8 @@ Described by: _TODO: add name and email_
 
 The sources name learning objectives as a category AI handles well and describe no procedure or outcome.
 
+**Outcome search, October 2026:** One preprint found GPT-4 produced well formed objectives at the expected cognitive levels (Sridhar and colleagues, 2023). It judged the objectives, not their effect on teaching or learning.
+
 **Drafted steps:** 3 of 5, marked (Drafted) in How to Implement.
 
 

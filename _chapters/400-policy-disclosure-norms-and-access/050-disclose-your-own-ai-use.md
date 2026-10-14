@@ -36,7 +36,7 @@ Tradeoffs and limitations:
 
 + Disclosure of instructor use in a restrictive course reads as inconsistent unless the reasoning is given, and the reasoning is the point
 + The statement dates as the instructor's own practice changes across a term
-+ No source evaluates the effect of instructor disclosure on student behaviour or trust
++ Experimental evidence shows disclosing AI use lowers trust, including students' trust in a professor who grades with AI. The case for this play rests on consistency with what you ask of students, not on any trust gain
 
 Not a good fit when:
 
@@ -77,12 +77,16 @@ Neither source supplies example syllabus language.
 + Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
 + Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice: A Comprehensive Playbook for Higher Education. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp-content/uploads/2026/02/AI-Literacies-in-Practice.pdf
 
++ **Counter-evidence:** Reimann, M., and Schilke, O. (2025). https://doi.org/10.1016/j.obhdp.2025.104405 (Title not yet confirmed.)
+
 Described by: _TODO: add name and email_
 
 
 ## Evidence Status
 
 **Level:** undocumented.
+
+**Outcome search, October 2026:** Evidence against this play. Across 13 experiments with over 5,000 participants, people who disclosed AI use were trusted less, and in one scenario students trusted a professor 16 percent less after learning the professor used AI for grading (Reimann and Schilke, 2025). Softer framing did not remove the effect. Weigh this before disclosing, and see Applicability.
 
 **Drafted steps:** 2 of 6, marked (Drafted) in How to Implement.
 

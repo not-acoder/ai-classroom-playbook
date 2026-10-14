@@ -91,6 +91,8 @@ Revision note. In the previous draft this play was built from a single sentence 
 
 The performance and grade improvements in Davey and colleagues are quantitative. The resilience to generative AI misuse is a thematic finding drawn from survey and focus group data, not a controlled measurement of substitution rates. Do not read it as the latter. The four pillar framework cited for the written viva alternative states plainly that it reports no empirical outcomes or validation data.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** 1 of 6, marked (Drafted) in How to Implement.
 
 

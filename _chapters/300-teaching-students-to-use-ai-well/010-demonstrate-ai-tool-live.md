@@ -83,6 +83,8 @@ Revision note. The previous draft stated that the source recommends recurring sh
 
 **Level:** undocumented.
 
+**Outcome search, October 2026:** One study of nine instructor led AI demonstrations in an engineering mechanics course reports only preliminary, unquantified results (Geng and colleagues, 2026).
+
 **Drafted steps:** none. All seven implementation steps come from the sources.
 
 

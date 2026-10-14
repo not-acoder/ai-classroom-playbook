@@ -91,6 +91,8 @@ Drafting note. This play has the strongest evidence base in the collection and o
 
 The problem is documented: Liang and colleagues measured detector error rates and how they fall on non-native writers. The conversation procedure is not documented, and no source specifies one.
 
+**Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
+
 **Drafted steps:** 4 of 5, marked (Drafted) in How to Implement.
 
 

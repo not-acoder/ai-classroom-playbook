@@ -23,6 +23,14 @@
   are now undocumented: neither source measures outcomes. Plays 11 and 18
   stay paired but are marked indirect. "Undocumented" now means none found
   in the sources reviewed. Totals: 1 documented, 2 paired, 26 undocumented.
+- **Outcome search, every play.** Each play was searched for studies that
+  measured the practice. Upgrades: Play 3 to paired, weak (An and colleagues,
+  2025); Play 14 to paired (Xiao and colleagues, 2026, randomised, 979
+  students); Play 6 to documented, weak (AI Assessment Scale pilot, Furze and
+  colleagues, 2024). Play 26 gains counter-evidence: disclosing AI use lowers
+  trust (Reimann and Schilke, 2025). Zhang (Play 11) re-checked. Related but
+  non-qualifying studies are noted in Plays 2, 7, 9, 13, 17, 22 and 23.
+  Final totals: 2 documented, 4 paired, 23 undocumented.
 
 - **CHEPP report located and verified.** Rajkumar and Klein-Collins, *AI in
   Higher Education: Teaching and Learning*, CHEPP, July 2026, now cited with

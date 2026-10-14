@@ -87,6 +87,8 @@ was discarded and the practice re-grounded on the source above.
 
 **Level:** undocumented.
 
+**Outcome search, October 2026:** One pilot study of students critiquing AI generated solutions exists but reports no results yet (Lamberti and colleagues, 2025).
+
 **Drafted steps:** 3 of 6, marked (Drafted) in How to Implement.
 
 

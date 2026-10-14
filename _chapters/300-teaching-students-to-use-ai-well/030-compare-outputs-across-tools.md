@@ -81,6 +81,8 @@ Described by: _TODO: add name and email_
 
 **Level:** undocumented.
 
+**Outcome search, October 2026:** One course had student teams compare four chatbots on reasoning tasks, but measured the chatbots, not student learning (Shehu and colleagues, 2025).
+
 **Drafted steps:** 1 of 5, marked (Drafted) in How to Implement.
 
 

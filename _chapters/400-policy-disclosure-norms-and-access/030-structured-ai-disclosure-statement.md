@@ -82,6 +82,8 @@ Described by: _TODO: add name and email_
 
 **Level:** undocumented.
 
+**Outcome search, October 2026:** Two classroom reports, neither with measured outcomes. A Virginia Tech instructor found a disclosure checklist did not stop undisclosed use across four graduate courses (Kaufman, 2026). A chemistry course's disclosure forms showed most disclosing students did more than three quarters of the work with AI (Garcia Ramos, 2025).
+
 **Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
 
 
