@@ -2,7 +2,7 @@
 title: Assess AI Literacy in the Rubric
 slug: assess-ai-literacy-in-rubric
 play_number: 29
-evidence: documented
+evidence: undocumented
 drafted_steps: 3
 total_steps: 5
 last_checked: 2026-10
@@ -79,7 +79,7 @@ Described by: _TODO: add name and email_
 
 ## Evidence Status
 
-**Level:** documented.
+**Level:** undocumented. The study reports educator perceptions, not measured outcomes.
 
 Outcomes are self-reports from the three educators who taught one second year course at one university. The study does not measure effects on student learning.
 

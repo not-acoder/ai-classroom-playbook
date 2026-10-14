@@ -81,7 +81,7 @@ Described by: _TODO: add name and email_
 
 ## Evidence Status
 
-**Level:** paired.
+**Level:** paired, indirect. The trial tested an AI feedback system that used refined rubrics, not AI drafted rubrics.
 
 the trial measured rubric quality as a contributing factor within an AI assisted feedback system. It did not measure the effect of AI drafted rubrics on grading consistency, and no source cited here does.
 

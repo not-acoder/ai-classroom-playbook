@@ -85,7 +85,7 @@ Scope note. Discovery originally described a workflow passing individual student
 
 ## Evidence Status
 
-**Level:** paired.
+**Level:** paired, indirect. Both trials tested AI assisted feedback in general, not instructor drafted templates.
 
 In both trials the AI worked against explicit rubrics and under human review. Neither tested AI feedback delivered to students without an instructor in the loop.
 

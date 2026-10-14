@@ -19,6 +19,11 @@
 
 ### Corrections
 
+- **Evidence levels tightened.** Play 16 (paired) and Play 29 (documented)
+  are now undocumented: neither source measures outcomes. Plays 11 and 18
+  stay paired but are marked indirect. "Undocumented" now means none found
+  in the sources reviewed. Totals: 1 documented, 2 paired, 26 undocumented.
+
 - **CHEPP report located and verified.** Rajkumar and Klein-Collins, *AI in
   Higher Education: Teaching and Learning*, CHEPP, July 2026, now cited with
   its URL. v1.0 removed the report's specifics because the report could not

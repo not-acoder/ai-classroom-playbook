@@ -2,7 +2,7 @@
 title: Co-Create the Course AI Policy with Students
 slug: co-create-course-ai-policy
 play_number: 16
-evidence: paired
+evidence: undocumented
 drafted_steps: 0
 total_steps: 8
 last_checked: 2026-10
@@ -85,7 +85,7 @@ Revision note. In the previous draft three of seven steps were drafted, from a s
 
 ## Evidence Status
 
-**Level:** paired.
+**Level:** undocumented. Seki and colleagues supply the process behind the steps, not outcome data.
 
 The source is a qualitative participatory design study in one graduate design studio course with ten students at one institution. It documents a process and its outputs. It does not measure whether co-created policies change student behaviour or learning.
 
