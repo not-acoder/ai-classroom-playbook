@@ -77,8 +77,8 @@ drafted rather than taken from a source. That is a different question from
 evidence strength: a play can rest on strong evidence and still have most of
 its steps written by the drafter. Play 21 is the clearest case.
 
-Version 1.1 totals: 2 documented, 4 paired, 23 undocumented. Every play was searched for outcome studies in October 2026; the result is recorded in its Evidence Status. 20 of 29 plays
-contain at least one drafted step, 46 drafted steps in all.
+Version 1.1 totals: 2 documented, 4 paired, 23 undocumented. Every play was searched for outcome studies in October 2026; the result is recorded in its Evidence Status. 21 of 29 plays
+contain at least one drafted step, 50 drafted steps in all.
 
 The same values are in each play's front matter (`evidence`,
 `drafted_steps`, `total_steps`, `last_checked`) so they can be tabulated.

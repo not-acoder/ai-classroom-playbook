@@ -60,7 +60,7 @@ The equity provision in this play comes from students rather than from faculty. 
 
 policy study behind Play 16, ten graduate students produced ten policy recommendations, the tenth of which was ensuring equity by providing access to the same AI tools for all students. That it appeared in a student authored list and not in the faculty guidance the same study reviewed is the finding.
 
-McGee and Sadler examined the free and paid versions of the same assistant on homework questions and data analyses typical of an introductory statistics course, framing the question directly as whether students who cannot afford newer and faster versions would be disadvantaged in writing such projects and learning these methods. Their framing is the useful part. Their comparison is between model generations that no longer correspond to the current free and paid tiers, and the paper is an unrefereed preprint whose arXiv record states it was submitted for review and rejected. Cite the question, not the result.
+McGee and Sadler examined the free and paid versions of the same assistant on statistics exams ranging from high school to first-year graduate level, framing the question directly as whether students who cannot afford newer and faster versions would be disadvantaged in writing such projects and learning these methods. Their framing is the useful part. Their comparison is between model generations that no longer correspond to the current free and paid tiers, and the paper is an unrefereed preprint whose authors' note states it was submitted to a journal and rejected. Cite the question, not the result.
 
 Whitman's guidance on tool selection covers the institutional angle: take advantage of educational pricing and institutional licences, and consider free tiers for initial experimentation.
 
@@ -76,7 +76,7 @@ Whitman's guidance on tool selection covers the institutional angle: take advant
 ## Source
 
 + **Recommendation:** Seki, K., Vijay, M., and Kotturi, Y. (2026). Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom. CHI '26, Barcelona. https://doi.org/10.1145/3772318.3790691
-+ **Problem framing:** McGee, M., and Sadler, B. (2024). Equity in the Use of ChatGPT for the Classroom. arXiv:2412.13116. (Unrefereed preprint, which its arXiv record states was rejected. Cited for the question only.)
++ **Problem framing:** McGee, M., and Sadler, B. (2024). Equity in the Use of ChatGPT for the Classroom. arXiv:2412.13116. (Unrefereed preprint. Its authors' note states a journal rejected it. Cited for the question only.)
 + **Institutional licensing:** Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
 
 Described by: _TODO: add name and email_

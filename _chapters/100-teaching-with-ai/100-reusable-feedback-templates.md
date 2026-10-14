@@ -54,7 +54,7 @@ Not a good fit when:
 
 ## Examples
 
-Mollick and Mollick identify uncovering and addressing student misconceptions as one of five evidence based strategies AI makes practical, on the grounds that the instructor's own expertise obstructs direct access to novice error patterns.
+Mollick and Mollick identify uncovering and addressing student misconceptions as one of five evidence based strategies AI makes practical.
 
 Whitman supplies a directly reusable prompt with bracketed fields: act as a subject matter expert in a named course, identify common mistakes and misconceptions students have about a named concept or skill, and suggest strategies to address them proactively. Whitman recommends applying the same role, level, and skill framing when generating the feedback templates themselves.
 

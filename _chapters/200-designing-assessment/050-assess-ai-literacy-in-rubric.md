@@ -3,7 +3,7 @@ title: Assess AI Literacy in the Rubric
 slug: assess-ai-literacy-in-rubric
 play_number: 29
 evidence: undocumented
-drafted_steps: 3
+drafted_steps: 4
 total_steps: 5
 last_checked: 2026-10
 ---
@@ -21,7 +21,7 @@ Traditional rubrics score the product. When AI can produce the product, a rubric
 
 ## Solution
 
-The instructor adds criteria to the existing rubric that make AI engagement an assessable skill. The criteria describe levels of judgment rather than levels of use: accepting output uncritically, correcting it with support, and independently evaluating and re-prompting. The rubric change reframes the instructor's own orientation from monitoring AI use toward teaching responsible AI practice, which is the reported effect on educators who make the switch.
+The instructor adds criteria to the existing rubric that make AI engagement an assessable skill. The criteria describe levels of judgment rather than levels of use. The source does not publish its level descriptors, so the progression suggested in How to Implement is drafted. The rubric change reframes the instructor's own orientation from monitoring AI use toward teaching responsible AI practice, which is the reported effect on educators who make the switch.
 
 
 ## Applicability
@@ -45,11 +45,11 @@ Not a good fit when:
 
 ## How to Implement
 
-Steps 1, 4, and 5 are drafted.
+Steps 1, 3, 4, and 5 are drafted.
 
 1. _(Drafted)_ Confirm you are collecting process evidence. Without it this play has nothing to assess.
 2. Add criteria to the existing rubric that frame AI engagement explicitly as an assessable skill rather than as a compliance question.
-3. Write the performance levels as levels of judgment. A workable progression runs from accepting output uncritically, through correcting it with support, to independently evaluating output and re-prompting.
+3. _(Drafted)_ Write the performance levels as levels of judgment. A workable progression runs from accepting output uncritically, through correcting it with support, to independently evaluating output and re-prompting.
 4. _(Drafted)_ Show students the criteria before the assignment, since the point is to teach the judgment rather than to catch its absence.
 5. _(Drafted)_ Check after the first run whether graders are applying the new criteria consistently, which is where rubric changes usually fail.
 
@@ -85,7 +85,7 @@ Outcomes are self-reports from the three educators who taught one second year co
 
 **Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
 
-**Drafted steps:** 3 of 5, marked (Drafted) in How to Implement.
+**Drafted steps:** 4 of 5, marked (Drafted) in How to Implement.
 
 
 ## Freshness

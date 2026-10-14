@@ -3,7 +3,7 @@ title: Publish a Transparent Course AI Policy
 slug: transparent-course-ai-policy
 play_number: 6
 evidence: documented
-drafted_steps: 1
+drafted_steps: 3
 total_steps: 9
 last_checked: 2026-10
 ---
@@ -46,17 +46,17 @@ Not a good fit when:
 
 ## How to Implement
 
-Step 5 is drafted.
+Steps 4, 5, and 9 are drafted.
 
 1. Decide the course's overall stance. Stances can span the whole range from allowing AI for all learning tasks with attribution to not allowing it under any circumstances.
 2. Set a level per assessment rather than one level for the course. The AI Assessment Scale supplies five: no AI, AI planning, AI collaboration, full AI, and AI exploration.
 3. Write out which specific uses fall on each side of the augment and replace line for your discipline, rather than leaving the categories abstract.
-4. State what disclosure requires: when, how, and why a tool was used. See Play 23 for a standardised format.
+4. _(Drafted)_ State what disclosure requires: when, how, and why a tool was used. See Play 23 for a standardised format.
 5. _(Drafted)_ Pair the policy with at least one structural change, since a policy alone relies on compliance you cannot verify.
 6. Add the statement to your syllabus and course site, specifying which tools students may use, what types of uses are allowed, and how students should cite or acknowledge AI use.
 7. Discuss the policy during the first class and revisit it throughout the semester, explaining your rationale and making it a discussion topic.
 8. Review the statement for clarity, looking for gaps to address and ambiguous wording to revise.
-9. Revisit the policy as new tools and capabilities emerge.
+9. _(Drafted)_ Revisit the policy as new tools and capabilities emerge.
 
 
 ## Examples
@@ -102,7 +102,7 @@ No source reports outcome data for a tiered course policy. The CHEPP report's 97
 
 **Outcome search, October 2026:** A pilot of the AI Assessment Scale at one university reported fewer generative AI misconduct cases, a 5.9 percent rise in attainment and a 33.3 percent rise in module pass rates (Furze and colleagues, 2024). No comparison group, so other changes at the university could explain part of it.
 
-**Drafted steps:** 1 of 9, marked (Drafted) in How to Implement.
+**Drafted steps:** 3 of 9, marked (Drafted) in How to Implement.
 
 
 ## Freshness

@@ -3,7 +3,7 @@ title: Require a Structured AI Disclosure Statement
 slug: structured-ai-disclosure-statement
 play_number: 23
 evidence: undocumented
-drafted_steps: 2
+drafted_steps: 1
 total_steps: 5
 last_checked: 2026-10
 ---
@@ -45,22 +45,22 @@ Not a good fit when:
 
 ## How to Implement
 
-Steps 3 and 5 are drafted.
+Step 5 is drafted.
 
 1. Adopt a standard format rather than asking for disclosure in free form, and give students the headings in advance.
 2. Require the statement to be appended at the end of the work, in the manner of an acknowledgements section, naming the AI tools used and the way they were used at each stage.
-3. _(Drafted)_ Tell students to include only the headings for stages where AI was actually used, so a minimal honest disclosure is short rather than performative.
-4. Direct students to the framework's own fillable statement builder if you want consistency without teaching the format from scratch. The framework is licensed CC BY-SA, so you may adapt the headings for your discipline.
+3. Tell students to include only the headings for stages where AI was actually used, so a minimal honest disclosure is short rather than performative.
+4. Direct students to the framework's interactive statement builder at aidframework.org if you want consistency without teaching the format from scratch. Check the framework's licence before adapting the headings for your discipline.
 5. _(Drafted)_ Say explicitly how the disclosure affects the grade. If it does not affect it, say that too, since students will otherwise under-disclose defensively.
 
 
 ## Examples
 
-The Artificial Intelligence Disclosure framework was developed by Kari D. Weaver at the University of Waterloo Libraries to provide brief, targeted disclosure about AI use based on the range of activities involved in research writing. The AID statement is appended to the end of the work, detailing the tools used and the manner of use, organised by the possible points of engagement through the writing process.
+The Artificial Intelligence Disclosure framework was developed by Kari D. Weaver, a librarian at the University of Waterloo, to provide brief, targeted disclosure about AI use based on the range of activities involved in research writing. The AID statement is appended to the end of the work, detailing the tools used and the manner of use, organised by the possible points of engagement through the writing process.
 
-The framework's stated argument for standardisation is that a consistent approach simplifies the expectations and the elements needed to maintain academic and research ethics. Its distinction between citation and attribution is the conceptual basis: citation credits a source consulted, attribution records a contribution made.
+The framework's stated argument for standardisation is that a consistent approach simplifies the expectations and the elements needed to maintain academic and research ethics. It argues that a citation alone does not capture how AI was used, so AI use needs to be attributed as well.
 
-A downloadable fillable statement builder is available, and the framework is shared under a CC BY-SA 4.0 licence permitting adaptation.
+An interactive statement builder is available at aidframework.org.
 
 
 ## See Also
@@ -84,7 +84,7 @@ Described by: _TODO: add name and email_
 
 **Outcome search, October 2026:** Two classroom reports, neither with measured outcomes. A Virginia Tech instructor found a disclosure checklist did not stop undisclosed use across four graduate courses (Kaufman, 2026). A chemistry course's disclosure forms showed most disclosing students did more than three quarters of the work with AI (Garcia Ramos, 2025).
 
-**Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
+**Drafted steps:** 1 of 5, marked (Drafted) in How to Implement.
 
 
 ## Freshness

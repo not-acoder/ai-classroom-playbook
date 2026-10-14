@@ -59,7 +59,7 @@ Steps 4 and 5 are drafted.
 
 The source introduces Prompt Problems as a new exercise type in which students are presented with a visual representation of a problem and must devise a prompt that will guide an LLM to generate code solving it, positioning the exercise against the shift in importance toward reading, comprehending and evaluating LLM generated code.
 
-A full course scale application exists. Vadaparty and colleagues report a CS1 course at a large research intensive university that embraces LLM use from the beginning of the course, reprioritising learning outcomes around specification and evaluation and giving students a recommended workflow for working with the model. Their follow up study examines student outcomes in that redesigned course. Note that the 2024 paper is an experience report rather than an outcomes study, and the outcomes claim belongs to the later paper.
+A full course scale application exists. Vadaparty and colleagues report a CS1 course at a large research intensive university that embraces LLM use from the beginning of the course, reducing the emphasis on syntax and writing code from scratch in favour of skills such as decomposing large problems into small functions an LLM can solve, and explaining and testing code. Their follow up study examines student outcomes in that redesigned course. Note that the 2024 paper is an experience report rather than an outcomes study, and the outcomes claim belongs to the later paper.
 
 
 ## See Also

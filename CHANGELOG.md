@@ -31,6 +31,34 @@
   trust (Reimann and Schilke, 2025). Zhang (Play 11) re-checked. Related but
   non-qualifying studies are noted in Plays 2, 7, 9, 13, 17, 22 and 23.
   Final totals: 2 documented, 4 paired, 23 undocumented.
+- **Full claim audit, every play against every source.** Fixes:
+  - Play 21: the "literary language" experiment was about AI text evading
+    detection, not about non-native essays. Corrected with the paper's
+    figures (61 to 12 percent; 5 to 57 percent; 100 to 13 percent).
+  - Play 11: removed an expert blind spot rationale attributed to Mollick
+    and Mollick that the paper does not make.
+  - Play 9: steps 2 and 6 (project the interface; re-run student prompts
+    live) are not in WICHE. Now marked drafted.
+  - Play 6: steps 4 and 9 (disclosure of when, how, why; revisit as tools
+    emerge) are not in UNT. Now marked drafted.
+  - Play 29: the uncritical-to-independent progression is not in Estaphan
+    and Zulfiqar. Now marked drafted.
+  - Play 23: step 3 is in Weaver, so no longer drafted. The CC BY-SA licence
+    and a downloadable builder could not be confirmed and were removed; the
+    builder is interactive.
+  - Play 22: "recommended workflow" replaced with what Vadaparty and
+    colleagues actually describe.
+  - Play 27: McGee and Sadler's rejection is stated in their authors' note,
+    not the arXiv record; their exams span high school to graduate level.
+  - Play 8: an assessor consistency finding could not be confirmed and was
+    removed.
+  - Play 1: writing style list corrected to the source's wording.
+  - Confirmed tonight: Pitt (all 16 claims), Whitman (all 12), WICHE
+    Appendix C (all), Mollick and Mollick, CHEPP, Lu, Zhang, Liang, Seki
+    (10 students: 8 in workshops, 2 interviews only), Denny (visual problem
+    representation), Corbin, Davey abstract, Droulers, Nikolić, AIAS level
+    names, McGee and Sadler.
+  - Drafted steps now 50 across 21 plays.
 
 - **CHEPP report located and verified.** Rajkumar and Klein-Collins, *AI in
   Higher Education: Teaching and Learning*, CHEPP, July 2026, now cited with

@@ -49,7 +49,7 @@ Not a good fit when:
 1. Pick a concept you want students to understand deeply.
 2. If using a model with live search, tell it to look up the concept using core works in the field.
 3. Tell the AI what you need: many varied examples of this one concept.
-4. Describe the writing style you prefer, such as clear, straightforward, concrete, and engaging.
+4. Describe the writing style you prefer, such as clear, straightforward, concrete, and dynamic.
 5. Describe your audience, such as college students who have not encountered the concept before.
 6. Evaluate before using: are the examples relevant, factually correct, detailed enough, likely to interest students, and genuinely varied in the perspectives they take?
 7. Deploy by weaving examples into lecture, posting them in the LMS as supplementary notes, or handing them to students as an exercise.

@@ -59,7 +59,7 @@ Step 6 is drafted.
 
 ## Examples
 
-Davey and colleagues replaced the major final assessment in an undergraduate bioscience course with a one to one interactive oral, evaluated across course offerings from 2009 to 2023 covering 722 students. They report significant improvement in both final assessment performance and overall course grades following its introduction, with no significant differences across gender, international status, or language background, and describe the format as resilient to academic misconduct including inappropriate use of generative AI. Assessor comparison found no statistically significant difference in mean marks between assessors, which is the standardised criteria and training working as intended.
+Davey and colleagues replaced the major final assessment in an undergraduate bioscience course with a one to one interactive oral, evaluated across course offerings from 2009 to 2023 covering 722 students. They report significant improvement in both final assessment performance and overall course grades following its introduction, with no significant differences across gender, international status, or language background, and describe the format as resilient to academic misconduct including inappropriate use of generative AI.
 
 Droulers, Krautloher and Shaeri report a multi year multi subject implementation at an Australian institution, arguing that the interactive oral resolves rather than sits between formative and summative purposes, since the conversation delivers feedback while the judgment is being made.
 
@@ -90,6 +90,8 @@ Revision note. In the previous draft this play was built from a single sentence 
 **Level:** documented.
 
 The performance and grade improvements in Davey and colleagues are quantitative. The resilience to generative AI misuse is a thematic finding drawn from survey and focus group data, not a controlled measurement of substitution rates. Do not read it as the latter. The four pillar framework cited for the written viva alternative states plainly that it reports no empirical outcomes or validation data.
+
+**Re-check, October 2026:** Only the abstract could be reached. It confirms the outcome findings, 722 students and 2009 to 2023; an assessor consistency finding cited in v1.0 could not be confirmed and was removed. The implementation steps were checked against the full paper in August.
 
 **Outcome search, October 2026:** Searched for further outcome studies of this practice; none found.
 

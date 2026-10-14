@@ -3,7 +3,7 @@ title: Demonstrate an AI Tool Live in Class
 slug: demonstrate-ai-tool-live
 play_number: 9
 evidence: undocumented
-drafted_steps: 0
+drafted_steps: 2
 total_steps: 7
 last_checked: 2026-10
 ---
@@ -45,12 +45,14 @@ Not a good fit when:
 
 ## How to Implement
 
+Steps 2 and 6 are drafted. The source describes the demonstration but not projecting the interface or re-running student prompts live.
+
 1. Choose one tool and one bounded task connected to course content.
-2. Project the interface so students can see the prompt and the response.
+2. _(Drafted)_ Project the interface so students can see the prompt and the response.
 3. Model how to craft a clear, bounded prompt, and tell students the goal is exploration rather than perfection.
 4. Show both useful and flawed results, and discuss your thinking aloud: what did I ask, why did I edit this output.
 5. Lead the class in assessing the output against criteria such as accuracy, bias, originality, tone, and alignment with the assignment.
-6. Have students propose improved prompts and re-run them live.
+6. _(Drafted)_ Have students propose improved prompts and re-run them live.
 7. In the same session, set boundaries and invitations: clarify which uses are encouraged in this course, such as brainstorming, translation, or accessibility support, and which are restricted, such as full text substitution.
 
 
@@ -85,7 +87,7 @@ Revision note. The previous draft stated that the source recommends recurring sh
 
 **Outcome search, October 2026:** One study of nine instructor led AI demonstrations in an engineering mechanics course reports only preliminary, unquantified results (Geng and colleagues, 2026).
 
-**Drafted steps:** none. All seven implementation steps come from the sources.
+**Drafted steps:** 2 of 7, marked (Drafted) in How to Implement.
 
 
 ## Freshness

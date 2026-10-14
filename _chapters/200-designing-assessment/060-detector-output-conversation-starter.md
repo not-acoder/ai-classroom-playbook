@@ -60,7 +60,7 @@ Liang and colleagues evaluated seven widely used GPT detectors against writing f
 
 generated, while accuracy on US eighth grade essays written by native speakers was near perfect. Analysis of the misclassified essays showed they had significantly lower perplexity than the rest, indicating that the detectors were responding to limited lexical variety rather than to machine authorship.
 
-The same study demonstrated the evasion problem directly. Prompting a model to edit the non-native essays using more literary language substantially reduced misclassification, and simplifying native-written essays increased it. A detector that can be defeated by asking for better vocabulary is not a detector.
+The same study showed how fragile the bias is. Prompting ChatGPT to enhance the word choices in the non-native essays cut the average false positive rate from 61 percent to 12 percent, and simplifying the native-written essays raised it from 5 percent to 57 percent. Separately, asking ChatGPT to rewrite its own essays in more literary language cut their detection from 100 percent to 13 percent. A detector that can be defeated by asking for better vocabulary is not a detector.
 
 Pitt's guidance to instructors is to avoid generative AI detectors on the grounds that they are unreliable and create an atmosphere of mistrust, and to build a culture of honesty and transparency instead.
 
