@@ -2,6 +2,10 @@
 title: Disclose Your Own AI Use to Students
 slug: disclose-your-own-ai-use
 play_number: 26
+evidence: undocumented
+drafted_steps: 2
+total_steps: 6
+last_checked: 2026-10
 ---
 
 
@@ -70,11 +74,26 @@ Neither source supplies example syllabus language.
 
 ## Source
 
-Source: Whitman, M. (2025). Getting Started with AI in Higher Education. Aspen University. Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice. WICHE.
++ Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
++ Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice: A Comprehensive Playbook for Higher Education. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp-content/uploads/2026/02/AI-Literacies-in-Practice.pdf
 
 Described by: _TODO: add name and email_
 
-Two of six implementation steps are drafted, as marked. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 2 of 6, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Whitman, 2025. Gunder and Herron, January 2026.
+
+**Time sensitive assumptions:** None identified.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

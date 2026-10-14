@@ -2,6 +2,10 @@
 title: Assign Prompt Problems Instead of Code Writing
 slug: prompt-problems-instead-of-code
 play_number: 22
+evidence: undocumented
+drafted_steps: 2
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -67,13 +71,31 @@ A full course scale application exists. Vadaparty and colleagues report a CS1 co
 
 ## Source
 
-Source: Practice: Denny, P., Leinonen, J., Prather, J., Luxton-Reilly, A., Amarouche, T., Becker, B. A., and Reeves, B. N. (2024). Prompt Problems: A New Programming Exercise for the Generative AI Era. SIGCSE 2024, pp. 296 to 302. https://doi.org/10.1145/3626252.3630909 Course scale application: Vadaparty, A., Zingaro, D., Smith IV, D. H., Padala, M., Alvarado, C., Gorson Benario, J., and Porter, L. (2024). CS1-LLM: Integrating LLMs into CS1 Instruction. ITiCSE 2024, pp. 297 to 303. https://doi.org/10.1145/3649217.3653584 Outcomes follow up: Vadaparty, A., Smith IV, D. H., Srinath, S., Padala, M., Alvarado, C., Gorson Benario, J., Porter, L., and Zingaro, D. (2026). Evaluating CS1- LLM. ACE '26. https://doi.org/10.1145/3786228.3786234
++ **Practice:** Denny, P., Leinonen, J., Prather, J., Luxton-Reilly, A., Amarouche, T., Becker, B. A., and Reeves, B. N. (2024). Prompt Problems: A New Programming Exercise for the Generative AI Era. SIGCSE 2024, pp. 296 to 302. https://doi.org/10.1145/3626252.3630909
++ **Course scale application:** Vadaparty, A., Zingaro, D., Smith IV, D. H., Padala, M., Alvarado, C., Gorson Benario, J., and Porter, L. (2024). CS1-LLM: Integrating LLMs into CS1 Instruction. ITiCSE 2024, pp. 297 to 303. https://doi.org/10.1145/3649217.3653584
++ **Outcomes follow up:** Vadaparty, A., Smith IV, D. H., Srinath, S., Padala, M., Alvarado, C., Gorson Benario, J., Porter, L., and Zingaro, D. (2026). Evaluating CS1-LLM. ACE '26. https://doi.org/10.1145/3786228.3786234
 
 Described by: _TODO: add name and email_
 
-Two of five implementation steps are drafted, as marked. Evidence status: undocumented for the exercise itself; the course scale redesign has a separate outcomes study.
-
 Domain note. This is the only play in the collection restricted to a single discipline. It is retained because computing is the domain where LLM substitution of existing assessment is most complete, and because the underlying move, making specification and evaluation the graded skill, may transfer to other domains with a generative equivalent.
+
+
+## Evidence Status
+
+**Level:** undocumented.
+
+No outcome data exists for Prompt Problems as a standalone exercise. The CS1-LLM course that builds on the same move has its own outcomes study, which evaluates the whole redesigned course, not this exercise alone. The 2024 CS1-LLM paper is an experience report, not an outcomes study.
+
+**Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Denny and colleagues, 2024. Vadaparty and colleagues, 2024 and 2026.
+
+**Time sensitive assumptions:** The exercise shows the problem as a picture so students have no text to paste into a model. Current models can read images, which may weaken this. Not yet checked against a source; flagged by the drafter.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

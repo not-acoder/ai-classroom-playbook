@@ -2,6 +2,10 @@
 title: Shift Graded Work to Interactive Oral Assessment
 slug: oral-and-in-class-formats
 play_number: 8
+evidence: documented
+drafted_steps: 1
+total_steps: 6
+last_checked: 2026-10
 ---
 
 
@@ -55,7 +59,7 @@ Step 6 is drafted.
 
 ## Examples
 
-Davey and colleagues replaced the major final assessment in an undergraduate bioscience course with a one to one interactive oral, evaluated across course offerings from 2009 to 2023. They report significant improvement in both final assessment performance and overall course grades following its introduction, with no significant differences across gender, international status, or language background, and describe the format as resilient to academic misconduct including inappropriate use of generative AI. Assessor comparison found no statistically significant difference in mean marks between assessors, which is the standardised criteria and training working as intended.
+Davey and colleagues replaced the major final assessment in an undergraduate bioscience course with a one to one interactive oral, evaluated across course offerings from 2009 to 2023 covering 722 students. They report significant improvement in both final assessment performance and overall course grades following its introduction, with no significant differences across gender, international status, or language background, and describe the format as resilient to academic misconduct including inappropriate use of generative AI. Assessor comparison found no statistically significant difference in mean marks between assessors, which is the standardised criteria and training working as intended.
 
 Droulers, Krautloher and Shaeri report a multi year multi subject implementation at an Australian institution, arguing that the interactive oral resolves rather than sits between formative and summative purposes, since the conversation delivers feedback while the judgment is being made.
 
@@ -71,15 +75,32 @@ Sotiriadou and colleagues provide the pre-generative-AI foundation, examining th
 
 ## Source
 
-Source: Practice and evidence: Davey, S. K., Birbeck, D., Nallaya, S., Sallows, G., and Della Vedova, C. B. (2025). Utilising one-on-one interactive oral assessments as the major final assessment within a bioscience course. Assessment and Evaluation in Higher Education 50(7):1154 to 1171. https://doi.org/10.1080/02602938.2025.2502577 Second implementation: Droulers, M., Krautloher, A., and Shaeri, S. Interactive oral assessment: co-existence of formative and summative purposes. Teaching in Higher Education 31(1):67 to 85. https://doi.org/10.1080/13562517.2025.2549945 Foundation: Sotiriadou, P., Logan, D., Daly, A., and Guest, R. (2020). Studies in Higher Education 45(11):2132 to 2148. Written viva alternative: Nikolić, D., and Basta Nikolić, M. (2026). Designing AI-resilient assessment in higher education: a four-pillar conceptual framework. Frontiers in Artificial Intelligence 9:1841682.
++ **Practice and evidence:** Davey, S. K., Birbeck, D., Nallaya, S., Sallows, G., and Della Vedova, C. B. (2025). Utilising one-on-one interactive oral assessments as the major final assessment within a bioscience course. Assessment and Evaluation in Higher Education 50(7):1154 to 1171. https://doi.org/10.1080/02602938.2025.2502577
++ **Second implementation:** Droulers, M., Krautloher, A., and Shaeri, S. (2025 online; 2026 issue). Interactive oral assessment: co-existence of formative and summative purposes. Teaching in Higher Education 31(1):67 to 85. https://doi.org/10.1080/13562517.2025.2549945
++ **Foundation:** Sotiriadou, P., Logan, D., Daly, A., and Guest, R. (2020). Studies in Higher Education 45(11):2132 to 2148. (Title and DOI not yet confirmed.)
++ **Written viva alternative:** Nikolić, D., and Basta Nikolić, M. (2026). Designing AI-resilient assessment in higher education: a four-pillar conceptual framework. Frontiers in Artificial Intelligence 9:1841682.
 
 Described by: _TODO: add name and email_
 
-One of six implementation steps is drafted, as marked. Evidence status: documented.
-
-Evidence scope. The performance and grade improvements in Davey and colleagues are quantitative. The resilience to generative AI misuse is a thematic finding drawn from survey and focus group data, not a controlled measurement of substitution rates. Do not read it as the latter. The four pillar framework cited for the written viva alternative states plainly that it reports no empirical outcomes or validation data.
-
 Revision note. In the previous draft this play was built from a single sentence in a teaching centre page, with four of five implementation steps drafted and a near empty Examples section. It is now sourced to studies of the practice itself.
+
+
+## Evidence Status
+
+**Level:** documented.
+
+The performance and grade improvements in Davey and colleagues are quantitative. The resilience to generative AI misuse is a thematic finding drawn from survey and focus group data, not a controlled measurement of substitution rates. Do not read it as the latter. The four pillar framework cited for the written viva alternative states plainly that it reports no empirical outcomes or validation data.
+
+**Drafted steps:** 1 of 6, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Davey and colleagues, 2025, analysing course offerings from 2009 to 2023. Droulers and colleagues, 2025. Sotiriadou and colleagues, 2020. Nikolić and Basta Nikolić, 2026.
+
+**Time sensitive assumptions:** None for the mechanism. The resilience to generative AI misuse is a thematic finding from one context.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

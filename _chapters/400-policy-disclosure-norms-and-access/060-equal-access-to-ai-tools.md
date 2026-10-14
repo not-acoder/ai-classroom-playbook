@@ -2,6 +2,10 @@
 title: Provide Equal Access to AI Tools Within the Course
 slug: equal-access-to-ai-tools
 play_number: 27
+evidence: undocumented
+drafted_steps: 3
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -71,11 +75,27 @@ Whitman's guidance on tool selection covers the institutional angle: take advant
 
 ## Source
 
-Source: Recommendation: Seki, K., Vijay, M., and Kotturi, Y. (2026). CHI '26. https://doi.org/10.1145/3772318.3790691 Problem framing: McGee, M., and Sadler, B. (2024). Equity in the Use of ChatGPT for the Classroom. arXiv:2412.13116. Unrefereed and rejected preprint; cited for the question only. Institutional licensing: Whitman, M. (2025), Aspen University.
++ **Recommendation:** Seki, K., Vijay, M., and Kotturi, Y. (2026). Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom. CHI '26, Barcelona. https://doi.org/10.1145/3772318.3790691
++ **Problem framing:** McGee, M., and Sadler, B. (2024). Equity in the Use of ChatGPT for the Classroom. arXiv:2412.13116. (Unrefereed preprint, which its arXiv record states was rejected. Cited for the question only.)
++ **Institutional licensing:** Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
 
 Described by: _TODO: add name and email_
 
-Three of five implementation steps are drafted, as marked. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 3 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Seki, Vijay and Kotturi, 2026. McGee and Sadler, 2024. Whitman, 2025.
+
+**Time sensitive assumptions:** McGee and Sadler compare model generations that no longer match current free and paid tiers. Free tier capabilities and limits change without notice. Re-check the named tier each term.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

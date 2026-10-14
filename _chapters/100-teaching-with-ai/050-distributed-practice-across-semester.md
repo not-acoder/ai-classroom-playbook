@@ -2,6 +2,10 @@
 title: Build Distributed Practice Across the Semester
 slug: distributed-practice-across-semester
 play_number: 5
+evidence: undocumented
+drafted_steps: 0
+total_steps: 7
+last_checked: 2026-10
 ---
 
 
@@ -69,11 +73,27 @@ A scheduling principle from the source: introduce a topic, then review it after 
 
 ## Source
 
-Source: Mollick, E., and Mollick, L. (2023). https://ssrn.com/abstract=4391243
++ Mollick, E., and Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. The Wharton School Research Paper. https://ssrn.com/abstract=4391243
 
 Described by: _TODO: add name and email_
 
-All implementation steps taken from the source. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+Grounded in prior learning science evidence for the underlying strategy, but reports no outcome data for the AI assisted version.
+
+**Drafted steps:** none. All seven implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Mollick and Mollick, March 2023.
+
+**Time sensitive assumptions:** The prompts were written for 2023 models. Re-test them on the tool you use before relying on the output.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

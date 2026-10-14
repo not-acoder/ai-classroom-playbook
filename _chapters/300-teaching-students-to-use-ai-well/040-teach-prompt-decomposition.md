@@ -2,6 +2,10 @@
 title: Teach Prompt Decomposition and Iteration Explicitly
 slug: teach-prompt-decomposition
 play_number: 14
+evidence: undocumented
+drafted_steps: 1
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -70,11 +74,25 @@ For an assessed version of this skill in computing, see Play 22, where prompt fo
 
 ## Source
 
-Source: University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
++ University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
 
 Described by: _TODO: add name and email_
 
-One of five implementation steps is drafted, as marked. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 1 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Pitt, last updated February 2026.
+
+**Time sensitive assumptions:** Specific prompting techniques date quickly as interfaces change. Teach the decomposition skill, not a fixed recipe.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

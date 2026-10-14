@@ -2,6 +2,10 @@
 title: Treat Detector Output as a Conversation Starter, Not a Verdict
 slug: detector-output-conversation-starter
 play_number: 21
+evidence: undocumented
+drafted_steps: 4
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -72,13 +76,31 @@ Corbin and colleagues make the structural version of the same point: because gen
 
 ## Source
 
-Source: Evidence: Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., and Zou, J. (2023). GPT detectors are biased against non-native English writers. Patterns 4(7):100779. https://doi.org/10.1016/j.patter.2023.100779 Instructor guidance: University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching. Supporting: Corbin, T., Dawson, P., and Liu, D. (2025). https://doi.org/10.1080/02602938.2025.2503964
++ **Evidence:** Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., and Zou, J. (2023). GPT detectors are biased against non-native English writers. Patterns 4(7):100779. https://doi.org/10.1016/j.patter.2023.100779
++ **Instructor guidance:** University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
++ **Supporting:** Corbin, T., Dawson, P., and Liu, D. (2025). Talk is cheap: why structural assessment changes are needed for a time of GenAI. Assessment and Evaluation in Higher Education 50(7):1087 to 1097. https://doi.org/10.1080/02602938.2025.2503964
 
 Described by: _TODO: add name and email_
 
-Four of five implementation steps are drafted, as marked. Evidence status: documented for the detector error rates and their distribution; undocumented for the conversation procedure, which no source specifies.
+Drafting note. This play has the strongest evidence base in the collection and one of the highest drafted step densities, second only to Play 25. The reason is instructive and is recorded in Appendix A of the compiled playbook: the detector problem has strong empirical evidence and almost no operational guidance, because the sources that measured the failure are computer science papers and the sources that advise instructors mostly advise them to stop rather than telling them what to do instead.
 
-Drafting note. This play has the highest drafted step density in the collection. The reason is instructive and is recorded in Appendix A: the detector problem has strong empirical evidence and almost no operational guidance, because the sources that measured the failure are computer science papers and the sources that advise instructors mostly advise them to stop rather than telling them what to do instead.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+The problem is documented: Liang and colleagues measured detector error rates and how they fall on non-native writers. The conversation procedure is not documented, and no source specifies one.
+
+**Drafted steps:** 4 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Liang and colleagues, 2023. Pitt, last updated February 2026. Corbin, Dawson and Liu, 2025.
+
+**Time sensitive assumptions:** The error rates come from detectors as they stood in 2023. The bias mechanism, scoring low lexical variety as machine written, is structural, but re-check the figures against current detectors before quoting them.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

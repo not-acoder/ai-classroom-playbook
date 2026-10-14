@@ -2,6 +2,10 @@
 title: Anticipate Misconceptions and Draft Reusable Feedback Templates
 slug: reusable-feedback-templates
 play_number: 11
+evidence: paired
+drafted_steps: 0
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -54,7 +58,7 @@ Mollick and Mollick identify uncovering and addressing student misconceptions as
 
 Whitman supplies a directly reusable prompt with bracketed fields: act as a subject matter expert in a named course, identify common mistakes and misconceptions students have about a named concept or skill, and suggest strategies to address them proactively. Whitman recommends applying the same role, level, and skill framing when generating the feedback templates themselves.
 
-Two randomised trials bear on whether AI assisted feedback works, and both point the same way with the same caveat. Lu and colleagues ran a controlled trial in a large introductory economics course with 354 students and 11 teaching assistants across 1,366 essays. Students receiving feedback that teaching assistants had authored with AI suggestions produced significantly higher quality revisions, an effect the authors describe as roughly equivalent to moving a student from the 50th to the 70th percentile. Teaching assistants agreed with 88 percent of the AI's rubric judgments and corrected the remaining 12 percent. Zhang ran a four week randomised controlled trial with 259 undergraduates comparing AI generated writing feedback with instructor feedback and reported significant improvement in the AI condition, strongest on organisation and content development.
+Two randomised trials bear on whether AI assisted feedback works, and both point the same way with the same caveat. Lu and colleagues ran a controlled trial in a large introductory economics course with 354 students and 11 teaching assistants across 1,366 essays. Students receiving feedback that teaching assistants had authored with AI suggestions produced significantly higher quality revisions, an effect the authors describe as roughly equivalent to moving a student from the 50th to the 70th percentile. Teaching assistants approved 88.7 percent of the AI's rubric level judgments and corrected the remaining 11.3 percent. Zhang ran a four week randomised controlled trial with 259 undergraduates comparing AI generated writing feedback with instructor feedback and reported significant improvement in the AI condition, strongest on organisation and content development.
 
 In both trials the AI operated against explicit rubrics and under human review. Neither tested AI feedback delivered to students without an instructor in the loop.
 
@@ -67,16 +71,34 @@ In both trials the AI operated against explicit rubrics and under human review. 
 
 ## Source
 
-Source: Practice: Mollick, E., and Mollick, L. (2023). https://ssrn.com/abstract=4391243 Operational prompt: Whitman, M. (2025). Getting Started with AI in Higher Education. Aspen University. Retained for the reusable prompt only. This source is a marketing article published by a for-profit university and closes with a programme
-Source: recruitment call to action. Evidence: Lu, X., Ju, K. P., Dudley, M., Sano, L., and Wang, X. (2026). CHI '26. https://doi.org/10.1145/3772318.3791121; Zhang, K. (2025). Enhancing Critical Writing Through AI Feedback: A Randomized Control Study. Behavioral Sciences 15(5):600. https://doi.org/10.3390/bs15050600
++ **Practice:** Mollick, E., and Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. The Wharton School Research Paper. https://ssrn.com/abstract=4391243
++ **Operational prompt:** Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
++ **Evidence:** Lu, X., Ju, K. P., Dudley, M., Sano, L., and Wang, X. (2026). AI-Mediated Feedback Improves Student Revisions: A Randomized Trial with FeedbackWriter in a Large Undergraduate Course. CHI '26, Barcelona. https://doi.org/10.1145/3772318.3791121
++ **Evidence:** Zhang, K. (2025). Enhancing Critical Writing Through AI Feedback: A Randomized Control Study. Behavioral Sciences 15(5):600. https://doi.org/10.3390/bs15050600
 
 Described by: _TODO: add name and email_
-
-All implementation steps taken from the sources. Evidence status: paired.
 
 Revision note. In the previous draft this play was sourced only to Whitman and carried the claim that the source offered anecdotal evidence that feedback scales while quality holds. The source contains no such claim and it has been removed. The practice has been re-grounded on Mollick and Mollick, whose misconceptions strategy this play implements, and real outcome evidence has been attached.
 
 Scope note. Discovery originally described a workflow passing individual student submissions to AI for per-student draft feedback. No source describes that. The narrower version here creates reusable templates the instructor personalises, which is what the sources support and which avoids sending student work to an external tool. See Play 28.
+
+
+## Evidence Status
+
+**Level:** paired.
+
+In both trials the AI worked against explicit rubrics and under human review. Neither tested AI feedback delivered to students without an instructor in the loop.
+
+**Drafted steps:** none. All five implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Mollick and Mollick, March 2023. Whitman, 2025. Zhang, 2025. Lu and colleagues, 2026.
+
+**Time sensitive assumptions:** Both trials evaluated specific systems, FeedbackWriter and a Qwen based tool. Results may not carry over to other tools.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

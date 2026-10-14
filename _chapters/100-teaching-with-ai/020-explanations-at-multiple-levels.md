@@ -2,6 +2,10 @@
 title: Produce Explanations at Multiple Levels
 slug: explanations-at-multiple-levels
 play_number: 2
+evidence: undocumented
+drafted_steps: 0
+total_steps: 8
+last_checked: 2026-10
 ---
 
 
@@ -68,11 +72,27 @@ For students struggling before a test, the source recommends generating a simpli
 
 ## Source
 
-Source: Mollick, E., and Mollick, L. (2023). https://ssrn.com/abstract=4391243
++ Mollick, E., and Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. The Wharton School Research Paper. https://ssrn.com/abstract=4391243
 
 Described by: _TODO: add name and email_
 
-All implementation steps taken from the source. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+Grounded in prior learning science evidence for the underlying strategy, but reports no outcome data for the AI assisted version.
+
+**Drafted steps:** none. All eight implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Mollick and Mollick, March 2023.
+
+**Time sensitive assumptions:** Step 2 distinguishes models with and without live search, the same dated distinction as Play 1. The practice itself is unaffected.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

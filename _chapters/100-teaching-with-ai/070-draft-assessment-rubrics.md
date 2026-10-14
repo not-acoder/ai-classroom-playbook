@@ -2,6 +2,10 @@
 title: Draft and Refine Assessment Rubrics with AI
 slug: draft-assessment-rubrics
 play_number: 18
+evidence: paired
+drafted_steps: 2
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -56,7 +60,7 @@ Pitt lists rubrics among the document categories generative AI can handle adeptl
 
 Whitman gives the operational version: draft assignment rubrics that you can then customise to your specific needs. Whitman also recommends creating sample responses to help calibrate grading, which pairs with step 3.
 
-Lu and colleagues supply the strongest reason to invest in the rubric. In their randomised trial the authors attribute the system's benefit in part to detailed rubrics iteratively refined by the instructors, which they describe as making AI judgment robust and human evaluation efficient. Teaching assistants agreed with 88 percent of the AI's rubric judgments and corrected the remainder.
+Lu and colleagues supply the strongest reason to invest in the rubric. In their randomised trial the authors attribute the system's benefit in part to detailed rubrics iteratively refined by the instructors, which they describe as making AI judgment robust and human evaluation efficient. Teaching assistants approved 88.7 percent of the AI's rubric level judgments and corrected the remaining 11.3 percent.
 
 
 ## See Also
@@ -68,13 +72,29 @@ Lu and colleagues supply the strongest reason to invest in the rubric. In their 
 
 ## Source
 
-Source: Practice: University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching; Whitman, M. (2025), Aspen University. Evidence: Lu, X., Ju, K. P., Dudley, M., Sano, L., and Wang, X. (2026). AI-Mediated Feedback Improves Student Revisions: A Randomized Trial with FeedbackWriter in a Large Undergraduate Course. CHI '26, Barcelona. https://doi.org/10.1145/3772318.3791121
++ **Practice:** University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
++ **Practice:** Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
++ **Evidence:** Lu, X., Ju, K. P., Dudley, M., Sano, L., and Wang, X. (2026). AI-Mediated Feedback Improves Student Revisions: A Randomized Trial with FeedbackWriter in a Large Undergraduate Course. CHI '26, Barcelona. https://doi.org/10.1145/3772318.3791121
 
 Described by: _TODO: add name and email_
 
-Two of five implementation steps are drafted, as marked. Evidence status: paired.
 
-Scope limit: the trial measured rubric quality as a contributing factor within an AI assisted feedback system. It did not measure the effect of AI drafted rubrics on grading consistency, and no source cited here does.
+## Evidence Status
+
+**Level:** paired.
+
+the trial measured rubric quality as a contributing factor within an AI assisted feedback system. It did not measure the effect of AI drafted rubrics on grading consistency, and no source cited here does.
+
+**Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Pitt, last updated February 2026. Whitman, 2025. Lu and colleagues, 2026.
+
+**Time sensitive assumptions:** The outcome evidence comes from FeedbackWriter, a research system rather than a commercially available tool.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

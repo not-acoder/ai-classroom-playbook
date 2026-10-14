@@ -2,6 +2,10 @@
 title: Draft Low-Stakes Diagnostic Quizzes
 slug: low-stakes-diagnostic-quizzes
 play_number: 3
+evidence: undocumented
+drafted_steps: 0
+total_steps: 8
+last_checked: 2026-10
 ---
 
 
@@ -70,11 +74,28 @@ The source frames in lecture items as hinge questions, which tell the instructor
 
 ## Source
 
-Source: Mollick, E., and Mollick, L. (2023). https://ssrn.com/abstract=4391243 Reading quiz application: University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better- teaching/
++ Mollick, E., and Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. The Wharton School Research Paper. https://ssrn.com/abstract=4391243
++ **Reading quiz application:** University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
 
 Described by: _TODO: add name and email_
 
-All implementation steps taken from the sources. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+Grounded in prior learning science evidence for the underlying strategy, but reports no outcome data for the AI assisted version.
+
+**Drafted steps:** none. All eight implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Mollick and Mollick, March 2023. Pitt, last updated February 2026.
+
+**Time sensitive assumptions:** The prompts were written for 2023 models. Re-test them on the tool you use before relying on the output.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

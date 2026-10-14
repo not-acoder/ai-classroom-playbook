@@ -2,6 +2,10 @@
 title: Summarise Student Confusion from Short Written Reflections
 slug: summarize-student-confusion
 play_number: 4
+evidence: undocumented
+drafted_steps: 0
+total_steps: 7
+last_checked: 2026-10
 ---
 
 
@@ -69,11 +73,28 @@ An anonymity technique from the source: when using a discussion board, set it to
 
 ## Source
 
-Source: Mollick, E., and Mollick, L. (2023). https://ssrn.com/abstract=4391243 Privacy guidance in step 4 and the third limitation: Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a- practical-guide-for-faculty-newcomers/
++ Mollick, E., and Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. The Wharton School Research Paper. https://ssrn.com/abstract=4391243
++ **Privacy guidance in step 4 and the third limitation:** Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
 
 Described by: _TODO: add name and email_
 
-Evidence status: undocumented. In the previous draft the privacy caution was drafted by the drafter. It is now sourced.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+Grounded in prior learning science evidence for the underlying strategy, but reports no outcome data for the AI assisted version.
+
+**Drafted steps:** none. All seven implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Mollick and Mollick, March 2023. Whitman, 2025.
+
+**Time sensitive assumptions:** A tool's data handling terms can change without notice. The privacy check in step 4 is a check per term, not once. See Play 28.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

@@ -2,6 +2,10 @@
 title: Co-Create the Course AI Policy with Students
 slug: co-create-course-ai-policy
 play_number: 16
+evidence: paired
+drafted_steps: 0
+total_steps: 8
+last_checked: 2026-10
 ---
 
 
@@ -71,15 +75,30 @@ The Pitt source establishes the underlying move in one line: permission levels c
 
 ## Source
 
-Source: Process: Seki, K., Vijay, M., and Kotturi, Y. (2026). Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom. CHI '26, Barcelona. https://doi.org/10.1145/3772318.3790691 Underlying practice: University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching.
++ **Process:** Seki, K., Vijay, M., and Kotturi, Y. (2026). Participatory, not Punitive: Student-Driven AI Policy Recommendations in a Design Classroom. CHI '26, Barcelona. https://doi.org/10.1145/3772318.3790691
++ **Underlying practice:** University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
 
 Described by: _TODO: add name and email_
 
-All implementation steps taken from the sources. Evidence status: paired.
-
-Evidence scope. The source is a qualitative participatory design study in one graduate design studio course with ten students at one institution. It documents a process and its outputs. It does not measure whether co-created policies change student behaviour or learning.
-
 Revision note. In the previous draft three of seven steps were drafted, from a single line in a teaching centre page, and the draft noted this as the thinnest sourcing in the collection relative to the size of the claim. It is now sourced to a study of the process itself, and the power imbalance problem, previously unaddressed, is now step 2.
+
+
+## Evidence Status
+
+**Level:** paired.
+
+The source is a qualitative participatory design study in one graduate design studio course with ten students at one institution. It documents a process and its outputs. It does not measure whether co-created policies change student behaviour or learning.
+
+**Drafted steps:** none. All eight implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Seki, Vijay and Kotturi, 2026. Pitt, last updated February 2026.
+
+**Time sensitive assumptions:** None identified.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

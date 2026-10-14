@@ -2,6 +2,10 @@
 title: Permit AI Explicitly for Accessibility and Language Support
 slug: ai-for-accessibility-and-language
 play_number: 15
+evidence: undocumented
+drafted_steps: 2
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -44,7 +48,7 @@ Not a good fit when:
 Steps 4 and 5 are drafted.
 
 1. Identify which support uses are relevant to your course materials and student population.
-2. Name them explicitly as permitted in your syllabus AI policy, separate from your general permission tier. Uses that augment rather than replace learning include real time captioning and text to speech for learners with disabilities, real time translation of course materials and discussions for multilingual learners, summarising lecture notes, and improving clarity of writing.
+2. Name them explicitly as permitted in your syllabus AI policy, separate from your general permission tier. Uses that augment rather than replace learning include real time captioning and text to speech for learners with disabilities, real time translation of course materials for multilingual learners, summarising lecture notes, and improving clarity of writing.
 3. Distinguish these from uses that replace learning, which include writing an essay in response to a prompt, generating answers to discussion questions, developing a research thesis, and solving assigned problems.
 4. _(Drafted)_ Give students a concrete example of each side of the line for your own assignments, rather than leaving the categories abstract.
 5. _(Drafted)_ Point students to a short resource on configuring the tools, since permission without setup guidance leaves the gap partly open.
@@ -70,13 +74,28 @@ Neither policy source supplies syllabus language. Steps 4 and 5 exist to fill th
 
 ## Source
 
-Source: Rajkumar, M., and Klein-Collins, R. AI in Higher Education: Teaching and Learning. Center for Higher Education Policy and Practice, Southern New Hampshire University. Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice. WICHE.
++ Rajkumar, M., and Klein-Collins, R. (2026, July). AI in Higher Education: Teaching and Learning. Center for Higher Education Policy and Practice, Southern New Hampshire University. https://www.chepp.org/wp-content/uploads/2026/07/CHEPP_AI-IN-HIGHER-EDUCATION-TEACHING-AND-LEARNING.pdf
++ Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice: A Comprehensive Playbook for Higher Education. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp-content/uploads/2026/02/AI-Literacies-in-Practice.pdf
 
 Described by: _TODO: add name and email_
 
-Two of five implementation steps are drafted, as marked. Evidence status: undocumented.
+Verification note. Version 1.0 flagged the CHEPP report as unverifiable. It has since been located and the augment and replace items above were checked against its Table 1. One item was narrowed: the report names real time translation of course materials, not of discussions.
 
-Citation caution. As with Play 6, the CHEPP report is cited without a resolvable URL and its authorship and date could not be independently confirmed. The augment versus replace framing is confirmed in the report's own description. The specific list items above should be re-checked against the report before publication.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** CHEPP, July 2026. Gunder and Herron, January 2026.
+
+**Time sensitive assumptions:** Captioning and translation quality varies by tool and language and changes quickly. Re-check the tools you name.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

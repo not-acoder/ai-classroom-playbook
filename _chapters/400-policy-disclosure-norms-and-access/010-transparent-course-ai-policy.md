@@ -2,6 +2,10 @@
 title: Publish a Transparent Course AI Policy
 slug: transparent-course-ai-policy
 play_number: 6
+evidence: undocumented
+drafted_steps: 1
+total_steps: 9
+last_checked: 2026-10
 ---
 
 
@@ -59,7 +63,9 @@ Step 5 is drafted.
 
 The AI Assessment Scale was revised in 2024 and again in 2025 on the basis of implementation feedback from global adoption across K-12 and higher education. The revision explicitly moved away from the traffic light visual of the original in favour of a neutral palette, on the grounds that the traffic light framing carried connotations the authors no longer wanted. It is designed to serve two purposes at once: to open dialogue with students about appropriate use, and to prompt the instructor to redesign the assessment.
 
-Discipline specific illustrations from the CHEPP report: business courses may encourage AI for any task that creates efficiencies valued in a corporate environment; statistics courses may allow AI for analysing large datasets and computer science courses may allow it as a round the clock tutor for difficult coding projects; humanities courses may prohibit AI entirely to ensure students perform the critical thinking and analysis that accompany reading and writing assignments.
+The CHEPP report describes a course level version of the same idea. At Dallas College and the University of South Carolina, faculty choose one of three AI policies for each course they teach: a red light option prohibiting any use of AI, a yellow light option allowing AI for specified purposes with clear and transparent citation, and a green light option allowing any use that augments rather than replaces learning, with citation. The AI Assessment Scale makes the same choice per assessment rather than per course. The report also cites survey data in which 97 percent of surveyed learners said institutions should adopt clearer AI policies (Flaherty, 2025, as cited in the report).
+
+Discipline specific illustrations from the CHEPP report, drawn from learner focus groups rather than documented implementations: business courses may encourage AI for any task that creates efficiencies valued in a corporate environment; statistics courses may allow AI for analysing large datasets and computer science courses may allow it as a round the clock tutor for difficult coding projects; humanities courses may prohibit AI entirely to ensure students perform the critical thinking and analysis that accompany reading and writing assignments.
 
 Whitman's version of the same policy lists four things to state: how you use AI in your teaching practice, guidelines for student use, expectations for attribution and transparency, and assessment considerations. The first of those is Play 26.
 
@@ -75,13 +81,33 @@ Whitman's version of the same policy lists four things to state: how you use AI 
 
 ## Source
 
-Source: Tier structure: Perkins, M., Roe, J., and Furze, L. (2025). Reimagining the Artificial Intelligence Assessment Scale: A refined framework for educational assessment. Journal of University Teaching and Learning Practice 22(7). Earlier version: Perkins, M., Furze, L., Roe, J., and MacVaugh, J. (2024). JUTLP 21(6):49 to 66. Preprint: arXiv:2412.09029. Syllabus practice: University of North Texas, Using AI in the Higher Education Classroom; University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching; Whitman, M. (2025), Aspen University. Augment versus replace framing: Rajkumar, M., and Klein-Collins, R. AI in Higher Education: Teaching and Learning. Center for Higher Education Policy and Practice, Southern New Hampshire University.
++ **Tier structure:** Perkins, M., Roe, J., and Furze, L. (2025). Reimagining the Artificial Intelligence Assessment Scale: A refined framework for educational assessment. Journal of University Teaching and Learning Practice 22(7). Earlier version: Perkins, M., Furze, L., Roe, J., and MacVaugh, J. (2024). JUTLP 21(6):49 to 66. Preprint: arXiv:2412.09029
++ **Course level tiers and augment versus replace framing:** Rajkumar, M., and Klein-Collins, R. (2026, July). AI in Higher Education: Teaching and Learning. Center for Higher Education Policy and Practice, Southern New Hampshire University. https://www.chepp.org/wp-content/uploads/2026/07/CHEPP_AI-IN-HIGHER-EDUCATION-TEACHING-AND-LEARNING.pdf
++ **Syllabus practice:** University of North Texas. Using AI in the Higher Education Classroom. https://digitalstrategy.unt.edu/clear/teaching-resources/theory-practice/using-ai-in-higher-education-classroom.html (Undated page.)
++ **Syllabus practice:** University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
++ **Syllabus practice:** Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
 
 Described by: _TODO: add name and email_
 
-One of nine implementation steps is drafted, as marked. Evidence status: undocumented.
+Revision note. The previous draft built the tier structure on a three option red, yellow, green scheme attributed to the CHEPP report, together with a 97 percent survey figure and named institutional adopters. Version 1.0 removed those specifics because the report could not be found. It has since been located (July 2026) and every specific was confirmed, so the institutional example and the figure are restored in Examples. The AI Assessment Scale stays as the primary tier structure because it is peer reviewed and works per assessment rather than per course.
 
-Revision note. The previous draft built the tier structure on a three option red, yellow, green scheme attributed to the CHEPP report, together with a claimed 97 percent survey figure and named institutional adopters. None of those specifics could be verified, and the report is cited without a resolvable URL. The tier structure has been replaced with the AI Assessment Scale, which is peer reviewed and independently checkable, and the unverifiable specifics have been removed. CHEPP is retained only for the augment versus replace framing, which is confirmed in the report's own description. Treat the CHEPP citation as provisional until a URL is added.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+No source reports outcome data for a tiered course policy. The CHEPP report's 97 percent figure measures learner demand for clearer policies, not the effect of any policy.
+
+**Drafted steps:** 1 of 9, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Perkins and colleagues, 2024 and 2025. CHEPP, July 2026. Pitt, last updated February 2026. Whitman, 2025. The UNT page is undated.
+
+**Time sensitive assumptions:** Course AI policies date as tools change. Revisit the policy each term.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

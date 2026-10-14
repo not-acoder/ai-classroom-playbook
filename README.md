@@ -23,11 +23,12 @@ level policy, tool development, and K-12 only practices are out of scope.
 
 ## Contents
 
-Version 1. 29 plays in four chapters. All sources verified by direct fetch.
+Version 1.1. 29 plays in four chapters. All sources verified by direct fetch;
+last checked October 2026.
 
 | Chapter | Plays |
 | --- | --- |
-| 1. Teaching with AI — the instructor uses AI to produce instructional material | 10 |
+| 1. Teaching with AI: the instructor uses AI to produce instructional material | 10 |
 | 2. Designing Assessment for the AI Era | 6 |
 | 3. Teaching Students to Use AI Well | 5 |
 | 4. Policy, Disclosure, Norms, and Access | 8 |
@@ -38,17 +39,57 @@ number in the `play_number` front matter field; file name prefixes control
 reading order within a chapter.
 
 
+## The play form
+
+Every play has the same eleven slots: the title plus ten sections.
+
+| Section | What it holds |
+| --- | --- |
+| Intent | What the practice achieves, in one sentence |
+| Problem | What goes wrong without it |
+| Solution | The practice itself |
+| Applicability | Where it works, its tradeoffs, and when it is a bad fit |
+| How to Implement | Numbered steps. Steps the sources do not supply are marked _(Drafted)_ |
+| Examples | Worked instances from the sources |
+| See Also | Related plays |
+| Source | Every source, labelled by the role it plays |
+| Evidence Status | How strong the evidence is, and how much of the play the drafter wrote |
+| Freshness | When the sources date from, which assumptions date them, and when the play was last checked |
+
+The first eight sections are the play form used by the
+[Playbook of Alternative Grading Practices](https://cs-alternative-grading-practices.github.io/playbook/),
+with Examples added. Evidence Status and Freshness were added in version 1.1
+because building version 1.0 kept running into the same two gaps: practices
+and their evidence come from different literatures, and sources in this
+domain date within a year or two.
+
+
 ## Evidence status
 
-Every play states its evidence status at the end of the Source section, using
-four values:
+Each play states one evidence level:
 
-- **documented** — the source reports outcome data for this practice
-- **paired** — the practice comes from one source and outcome evidence from another
-- **undocumented** — the practice is described but no outcome evidence was found
-- **steps-drafted** — implementation steps were written by the drafter and are labelled inline
+- **documented**: a source reports outcome data for this practice
+- **paired**: the practice comes from one source and outcome evidence from another
+- **undocumented**: the practice is described but no outcome evidence was found
 
-Implementation steps not supported by a source are marked `(Drafted)` inline.
+Separately, each play reports how many of its implementation steps were
+drafted rather than taken from a source. That is a different question from
+evidence strength: a play can rest on strong evidence and still have most of
+its steps written by the drafter. Play 21 is the clearest case.
+
+Version 1.1 totals: 2 documented, 3 paired, 24 undocumented. 20 of 29 plays
+contain at least one drafted step, 46 drafted steps in all.
+
+The same values are in each play's front matter (`evidence`,
+`drafted_steps`, `total_steps`, `last_checked`) so they can be tabulated.
+
+
+## Versions
+
+- **v1.1** (October 2026): this version. See `CHANGELOG.md`.
+- **v1.0** (August 2026): tagged `v1.0`. The playbook exactly as produced by
+  running the inherited play template unchanged. The framework paper is built
+  on it, so it is frozen. Make changes on top of v1.1, never on v1.0.
 
 
 ## Repository layout

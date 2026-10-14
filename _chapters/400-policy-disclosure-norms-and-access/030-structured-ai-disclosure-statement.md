@@ -2,6 +2,10 @@
 title: Require a Structured AI Disclosure Statement
 slug: structured-ai-disclosure-statement
 play_number: 23
+evidence: undocumented
+drafted_steps: 2
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -69,11 +73,25 @@ A downloadable fillable statement builder is available, and the framework is sha
 
 ## Source
 
-Source: Weaver, K. D. (2024). The Artificial Intelligence Disclosure (AID) Framework: An Introduction. College and Research Libraries News 85(10):407 to 411. Preprint: arXiv:2408.01904. Statement builder: https://aidframework.org/
++ Weaver, K. D. (2024). The Artificial Intelligence Disclosure (AID) Framework: An Introduction. College and Research Libraries News 85(10):407 to 411. Preprint: arXiv:2408.01904. Statement builder: https://aidframework.org/
 
 Described by: _TODO: add name and email_
 
-Two of five implementation steps are drafted, as marked. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Weaver, 2024.
+
+**Time sensitive assumptions:** The headings were designed for research writing, and the statement builder site may change independently of the published article.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

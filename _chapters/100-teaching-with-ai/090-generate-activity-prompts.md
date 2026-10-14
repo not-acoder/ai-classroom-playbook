@@ -2,6 +2,10 @@
 title: Generate In-Class Activity and Writing Prompt Ideas with AI
 slug: generate-activity-prompts
 play_number: 20
+evidence: undocumented
+drafted_steps: 3
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -67,11 +71,26 @@ Neither source supplies a worked activity or a prompt template. See Appendix A.
 
 ## Source
 
-Source: University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching; Whitman, M. (2025), Aspen University.
++ University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
++ Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
 
 Described by: _TODO: add name and email_
 
-Three of five implementation steps are drafted, as marked. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 3 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Pitt, last updated February 2026. Whitman, 2025.
+
+**Time sensitive assumptions:** None identified.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

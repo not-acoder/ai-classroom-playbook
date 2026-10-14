@@ -2,6 +2,10 @@
 title: Assign Critique of AI-Generated Work
 slug: critique-ai-generated-work
 play_number: 7
+evidence: undocumented
+drafted_steps: 3
+total_steps: 6
+last_checked: 2026-10
 ---
 
 
@@ -69,15 +73,30 @@ This Examples section is thin because of what the primary source contains, not b
 
 ## Source
 
-Source: University of North Texas, Using AI in the Higher Education Classroom. https://digitalstrategy.unt.edu/clear/teaching-resources/theory-practice/using-ai-in-higher-education-classroom.html Adjacent structures: Gunder, A., and Herron, J. (2026, January). WICHE.
++ University of North Texas. Using AI in the Higher Education Classroom. https://digitalstrategy.unt.edu/clear/teaching-resources/theory-practice/using-ai-in-higher-education-classroom.html (Undated page.)
++ **Adjacent structures:** Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice: A Comprehensive Playbook for Higher Education. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp-content/uploads/2026/02/AI-Literacies-in-Practice.pdf
 
 Described by: _TODO: add name and email_
-
-Three of six implementation steps are drafted, as marked. Evidence status: undocumented.
 
 Citation note. During discovery this practice was attributed to a different source, a university research guide that on verification proved to be a bibliography of AI literacy frameworks containing no assignment design. That citation
 
 was discarded and the practice re-grounded on the source above.
+
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 3 of 6, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** The UNT page is undated. Gunder and Herron, January 2026.
+
+**Time sensitive assumptions:** None identified. The source date cannot be confirmed.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

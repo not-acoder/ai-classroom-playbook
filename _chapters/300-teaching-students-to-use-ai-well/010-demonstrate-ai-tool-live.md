@@ -2,6 +2,10 @@
 title: Demonstrate an AI Tool Live in Class
 slug: demonstrate-ai-tool-live
 play_number: 9
+evidence: undocumented
+drafted_steps: 0
+total_steps: 7
+last_checked: 2026-10
 ---
 
 
@@ -68,13 +72,27 @@ The source also directs instructors to integrate reflection throughout a project
 
 ## Source
 
-Source: Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice: A Comprehensive Playbook for Higher Education. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp- content/uploads/2026/02/AI-Literacies-in-Practice.pdf
++ Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice: A Comprehensive Playbook for Higher Education. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp-content/uploads/2026/02/AI-Literacies-in-Practice.pdf
 
 Described by: _TODO: add name and email_
 
-All implementation steps taken from the source. Evidence status: undocumented.
-
 Revision note. The previous draft stated that the source recommends recurring short versions of this activity, particularly early in the term. It does not. Its guidance about recurrence concerns reflection checkpoints within a project, which is what the third Examples paragraph now says. The claim has been removed.
+
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** none. All seven implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Gunder and Herron, January 2026.
+
+**Time sensitive assumptions:** None identified.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

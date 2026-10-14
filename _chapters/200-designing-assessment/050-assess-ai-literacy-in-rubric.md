@@ -2,6 +2,10 @@
 title: Assess AI Literacy in the Rubric
 slug: assess-ai-literacy-in-rubric
 play_number: 29
+evidence: documented
+drafted_steps: 3
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -68,11 +72,27 @@ The source is a qualitative study of educator experience in one course. It does 
 
 ## Source
 
-Source: Educators' experiences transitioning from a traditional to an AI-aware assignment rubric: a qualitative study in a health and medicine course. Frontiers in Education 11 (2026). https://doi.org/10.3389/feduc.2026.1885050
++ Estaphan, S., and Zulfiqar, T. (2026). Educators' experiences transitioning from a traditional to an AI-aware assignment rubric: a qualitative study in a health and medicine course. Frontiers in Education 11:1885050. https://doi.org/10.3389/feduc.2026.1885050
 
 Described by: _TODO: add name and email_
 
-Three of five implementation steps are drafted, as marked. Evidence status: documented for educator experience, undocumented for student outcomes.
+
+## Evidence Status
+
+**Level:** documented.
+
+Outcomes are self-reports from the three educators who taught one second year course at one university. The study does not measure effects on student learning.
+
+**Drafted steps:** 3 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Estaphan and Zulfiqar, 2026.
+
+**Time sensitive assumptions:** None identified.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

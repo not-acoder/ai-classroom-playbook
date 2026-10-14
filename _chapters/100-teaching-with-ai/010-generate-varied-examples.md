@@ -2,6 +2,10 @@
 title: Generate Many Varied Examples of a Concept
 slug: generate-varied-examples
 play_number: 1
+evidence: undocumented
+drafted_steps: 0
+total_steps: 7
+last_checked: 2026-10
 ---
 
 
@@ -66,13 +70,27 @@ Three deployment variants from the source, in increasing difficulty: - Give stud
 
 ## Source
 
-Source: Mollick, E., and Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. The Wharton School Research Paper. https://ssrn.com/abstract=4391243
++ Mollick, E., and Mollick, L. (2023). Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts. The Wharton School Research Paper. https://ssrn.com/abstract=4391243
 
 Described by: _TODO: add name and email_
 
-All implementation steps taken from the source. Evidence status: undocumented. The paper is grounded in prior learning science evidence but reports no outcome data for this AI assisted approach.
 
-Freshness note. The source dates from March 2023 and its live search distinction in step 2 reflects a model capability gap that has since largely closed. The practice is unaffected.
+## Evidence Status
+
+**Level:** undocumented.
+
+Grounded in prior learning science evidence for the underlying strategy, but reports no outcome data for the AI assisted version.
+
+**Drafted steps:** none. All seven implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Mollick and Mollick, March 2023.
+
+**Time sensitive assumptions:** Step 2 distinguishes models with and without live search. That gap has largely closed since 2023, so the step now applies to most tools. The practice itself is unaffected.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

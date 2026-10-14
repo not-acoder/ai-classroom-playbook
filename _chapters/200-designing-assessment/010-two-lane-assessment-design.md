@@ -2,6 +2,10 @@
 title: Design Assessment in Two Lanes
 slug: two-lane-assessment-design
 play_number: 24
+evidence: undocumented
+drafted_steps: 2
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -68,11 +72,27 @@ The two lane structure is the source's proposed alternative, with lane one contr
 
 ## Source
 
-Source: Corbin, T., Dawson, P., and Liu, D. (2025). Talk is cheap: why structural assessment changes are needed for a time of GenAI. Assessment and Evaluation in Higher Education 50(7):1087 to 1097. https://doi.org/10.1080/02602938.2025.2503964
++ Corbin, T., Dawson, P., and Liu, D. (2025). Talk is cheap: why structural assessment changes are needed for a time of GenAI. Assessment and Evaluation in Higher Education 50(7):1087 to 1097. https://doi.org/10.1080/02602938.2025.2503964
 
 Described by: _TODO: add name and email_
 
-Two of five implementation steps are drafted, as marked. Evidence status: undocumented. The paper is a conceptual contribution and reports no outcome data for the two lane structure.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+The paper is a conceptual contribution and reports no outcome data for the two lane structure.
+
+**Drafted steps:** 2 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Corbin, Dawson and Liu, 2025.
+
+**Time sensitive assumptions:** The argument rests on detection being unreliable, which held when the paper was written. Re-check if detection improves materially.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

@@ -2,6 +2,10 @@
 title: Have Students Compare Outputs Across Multiple AI Tools
 slug: compare-outputs-across-tools
 play_number: 13
+evidence: undocumented
+drafted_steps: 1
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -67,11 +71,26 @@ WICHE describes a sharper version of the same activity: a bias audit in which st
 
 ## Source
 
-Source: University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/ Bias audit variant: Gunder, A., and Herron, J. (2026, January). WICHE.
++ University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
++ **Bias audit variant:** Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice: A Comprehensive Playbook for Higher Education. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp-content/uploads/2026/02/AI-Literacies-in-Practice.pdf
 
 Described by: _TODO: add name and email_
 
-One of five implementation steps is drafted, as marked. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 1 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Pitt, last updated February 2026. Gunder and Herron, January 2026.
+
+**Time sensitive assumptions:** Assumes outputs differ visibly across tools. As models converge the comparison may become less instructive. See Applicability.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

@@ -2,6 +2,10 @@
 title: Require a Student AI Use and Reflection Cycle
 slug: student-ai-use-and-reflection-cycle
 play_number: 10
+evidence: undocumented
+drafted_steps: 0
+total_steps: 7
+last_checked: 2026-10
 ---
 
 
@@ -74,13 +78,29 @@ A field example from the source: at Cochise College, an ESL instructor redesigne
 
 ## Source
 
-Source: Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp-content/uploads/2026/02/AI-Literacies-in-Practice.pdf
++ Gunder, A., and Herron, J. (2026, January). AI Literacies in Practice: A Comprehensive Playbook for Higher Education. WICHE Cooperative for Educational Technologies. https://www.wiche.edu/wp-content/uploads/2026/02/AI-Literacies-in-Practice.pdf
 
 Described by: _TODO: add name and email_
 
-All implementation steps taken from the source. Evidence status: undocumented as a measured outcome. The source reports institutional field exemplars with observed effects but no controlled data.
-
 Relationship to Play 23. This play produces process evidence for learning. Play 23 produces a standardised attribution statement for transparency. They can run together, and a course running both should not require the student to describe the same use twice.
+
+
+## Evidence Status
+
+**Level:** undocumented.
+
+The source reports institutional field exemplars with observed effects, such as Cochise College, but no controlled data.
+
+**Drafted steps:** none. All seven implementation steps come from the sources.
+
+
+## Freshness
+
+**Source dates:** Gunder and Herron, January 2026.
+
+**Time sensitive assumptions:** None identified.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

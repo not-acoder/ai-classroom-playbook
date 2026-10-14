@@ -2,6 +2,10 @@
 title: Draft Course Learning Objectives with AI
 slug: draft-learning-objectives
 play_number: 17
+evidence: undocumented
+drafted_steps: 3
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -67,11 +71,28 @@ This Examples section is thin because both sources name the practice without dem
 
 ## Source
 
-Source: University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/ Whitman, M. (2025). Aspen University.
++ University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
++ Whitman, M. (2025). Getting Started with AI in Higher Education: A Practical Guide for Faculty Newcomers. Aspen University. https://www.aspen.edu/altitude/getting-started-with-ai-in-higher-education-a-practical-guide-for-faculty-newcomers/ (A marketing article published by a for-profit university. Used for operational detail only.)
 
 Described by: _TODO: add name and email_
 
-Three of five implementation steps are drafted, as marked. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+The sources name learning objectives as a category AI handles well and describe no procedure or outcome.
+
+**Drafted steps:** 3 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Pitt, last updated February 2026. Whitman, 2025.
+
+**Time sensitive assumptions:** None identified.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

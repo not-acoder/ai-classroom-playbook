@@ -2,6 +2,10 @@
 title: Set Team AI Norms Before Group Work Starts
 slug: team-ai-norms
 play_number: 25
+evidence: undocumented
+drafted_steps: 5
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -68,13 +72,29 @@ This Examples section is thin because the available research characterises the p
 
 ## Source
 
-Source: Problem characterisation: Tang et al. (2025). Reshaping Teamwork: Understanding AI Usage in Student Group Projects. Proceedings of the Association for Information Science and Technology. https://doi.org/10.1002/pra2.1346
++ **Problem characterisation:** Tang et al. (2025). Reshaping Teamwork: Understanding AI Usage in Student Group Projects. Proceedings of the Association for Information Science and Technology. https://doi.org/10.1002/pra2.1346 (Full author list not yet confirmed.)
 
 Described by: _TODO: add name and email_
 
-All five implementation steps are drafted, as marked. Evidence status: undocumented.
-
 Drafting note. This is the only play in the collection with no sourced implementation steps at all. It is retained because the gap it addresses is real and repeatedly named, and because leaving it out would misrepresent the domain as better covered than it is. Its status should be read as a claim about the literature, not as a recommendation with evidence behind it.
+
+
+## Evidence Status
+
+**Level:** undocumented.
+
+The source is an interview study of 20 students. It characterises the problem and evaluates no intervention.
+
+**Drafted steps:** 5 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Tang and colleagues, 2025.
+
+**Time sensitive assumptions:** None identified.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion

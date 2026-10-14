@@ -2,6 +2,10 @@
 title: Anchor Assignments in Course-Specific Events
 slug: anchor-assignments-in-course-events
 play_number: 12
+evidence: undocumented
+drafted_steps: 1
+total_steps: 5
+last_checked: 2026-10
 ---
 
 
@@ -68,11 +72,26 @@ The Pitt source does not supply worked assignment prompts. See Appendix A.
 
 ## Source
 
-Source: University of Pittsburgh, Five Key Generative AI Strategies for Better Teaching. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/ Adjacent example: Corbin, T., Dawson, P., and Liu, D. (2025). https://doi.org/10.1080/02602938.2025.2503964
++ University of Pittsburgh, University Center for Teaching and Learning. Five Key Generative AI Strategies for Better Teaching. Last updated 9 February 2026. https://teaching.pitt.edu/resources/five-key-generative-ai-strategies-for-better-teaching/
++ **Adjacent example:** Corbin, T., Dawson, P., and Liu, D. (2025). Talk is cheap: why structural assessment changes are needed for a time of GenAI. Assessment and Evaluation in Higher Education 50(7):1087 to 1097. https://doi.org/10.1080/02602938.2025.2503964
 
 Described by: _TODO: add name and email_
 
-One of five implementation steps is drafted, as marked. Evidence status: undocumented.
+
+## Evidence Status
+
+**Level:** undocumented.
+
+**Drafted steps:** 1 of 5, marked (Drafted) in How to Implement.
+
+
+## Freshness
+
+**Source dates:** Pitt, last updated February 2026. Corbin, Dawson and Liu, 2025.
+
+**Time sensitive assumptions:** Assumes a model cannot see in class material. This weakens as students upload recordings, notes, and slides to AI tools.
+
+**Last checked:** October 2026.
 
 
 ## Community Discussion
